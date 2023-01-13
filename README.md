@@ -13,8 +13,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raphaeltcf)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeltcf)](https://github.com/anuraghazra/github-readme-stats)
 
 
