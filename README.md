@@ -27,10 +27,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
 
 
-### Melhores Projetos
+## Melhores Projetos
 
-## 1- Um [Chatbot](https://github.com/raphaeltcf/Chatbot) feito com uma rede neural para atender as necessidades de um petshop
-## 2- Um [Detector de objetos](https://github.com/raphaeltcf/detects-objects-with-IA) utilizando Inteligencia artificial, ele utiliza sua câmera para identificar objetos.
+### 1- Um [Chatbot](https://github.com/raphaeltcf/Chatbot) feito com uma rede neural para atender as necessidades de um petshop
+### 2- Um [Detector de objetos](https://github.com/raphaeltcf/detects-objects-with-IA) utilizando Inteligencia artificial, ele utiliza sua câmera para identificar objetos.
 
 
 
