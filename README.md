@@ -1,5 +1,5 @@
 # 👋 Olá! Bem-vindo ao meu perfil do Github.
-## Meu nome é Raphael! Sou desenvolvedor Junior Back-end web.
+## Meu nome é Raphael! Sou desenvolvedor Back-end web.
 
 <div align="center">
   <a href="https://github.com/GabrielFeijo"></a>
