@@ -11,19 +11,29 @@
  <a href = "mailto:raphaeltcferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-torres-cs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+## LINGUAGENS E FRAMEWORKS
+<img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="40" height="40"/>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
 
+## BANCOS DE DADOS E ORMS
+<img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/sequelize-original.svg?size=128&color=currentColor" width="40" height="40"/>
+
+## INFRA
+<img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" width="40" height="40"/>
 
 
+<img src="" width="40" height="40"/>
 ## Melhores Projetos
 
 ### 1- Um [Chatbot](https://github.com/raphaeltcf/Chatbot) feito com uma rede neural para atender as necessidades de um petshop
