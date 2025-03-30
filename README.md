@@ -19,6 +19,7 @@
 <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/express/original-wordmark.svg?color=%230D00FF" width="40" height="40"/>
 
 ## BANCOS DE DADOS E ORMS
 <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="40" height="40"/>
