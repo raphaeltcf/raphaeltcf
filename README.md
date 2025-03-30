@@ -43,4 +43,4 @@
 ## 🏆 Featured Projects  
 
 ### 1️⃣ [Chatbot](https://github.com/raphaeltcf/Chatbot) An AI-powered chatbot using a neural network to assist pet shop needs.  
-### 2️⃣ [Object Detector] An AI-based object detector that uses your camera to identify objects in real-time.  
+### 2️⃣ [Object Detector](https://github.com/raphaeltcf/detects-objects-with-IA)  An AI-based object detector that uses your camera to identify objects in real-time.  
