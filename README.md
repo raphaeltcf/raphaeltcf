@@ -14,7 +14,7 @@
 ## LINGUAGENS E FRAMEWORKS
 <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg?color=%23FF0000" width="40" height="40"/>
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>
@@ -24,12 +24,12 @@
 <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF0000" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
 <img src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://icongr.am/devicon/sequelize-original.svg?size=128&color=currentColor" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/>
 
 
 ## INFRA
