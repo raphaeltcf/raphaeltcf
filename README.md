@@ -33,8 +33,7 @@
 
 
 ## INFRA
-<img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg" width="40" height="40"/>
+<img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg" width="40" height="40"/>
 <img src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40"/>
 
